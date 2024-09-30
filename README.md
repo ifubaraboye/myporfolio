@@ -7,4 +7,11 @@ Copy and paste the above command into the terminal
 
 
 
-------WEBSITE IS NOT RESPONSIVE!------
+------WEBSITE IS A LITTLE RESPONISVE!------
+
+
+
+
+
+
+i'm trying....
